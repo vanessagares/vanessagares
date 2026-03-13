@@ -1,7 +1,6 @@
-
-<h1 align="center">
-  <img src="img/space-boy-developer.gif" width="50" style="vertical-align:text-bottom;">
-  Vanessa Gares
+<h1 align="left">
+  Vanessa Gares 
+  <img src="space-boy-developer.gif" width="50" style="vertical-align: middle; position: relative; top: -3px;">
 </h1>
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
