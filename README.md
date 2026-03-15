@@ -24,7 +24,17 @@ Me chamo Vanessa Gares, tenho 27 anos. Sou formada no curso técnico em Informá
 
 ---
 
-### Linguagens e Tecnologias 
+### 📚 Atualmente estudando
+<p>
+• Java
+<br/>
+• Programação orientada a objeto 
+
+</p>
+
+---
+
+### 💻 Linguagens e Tecnologias 
 
 <img
     align="left"
